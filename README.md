@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaphr&label=Profile%20views&color=2bee07&style=flat" alt="swaphr" width="140" height="28"/> <a href="https://twitter.com/swapmaurya20" target="blank"><img src="https://img.shields.io/twitter/follow/swapmaurya20?logo=twitter&style=for-the-badge" alt="swapmaurya20" /></a></p>
 
-<p><img src="https://github.com/swapHR/swaphr.github.io/blob/main/img/banner/home-right.png" style="float" align="right" width=380 height=380">
+<p><img src="https://github.com/swapHR/swapHR/blob/main/img/home-right.png" style="float" align="right" width=380 height=380">
   
 - 🔭 I’m currently working on **Automation in Application Security**
   
